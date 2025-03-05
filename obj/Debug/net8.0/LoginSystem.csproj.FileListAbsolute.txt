@@ -1,0 +1,14 @@
+/home/erica/Documents/cs_projects/LoginSystem/bin/Debug/net8.0/LoginSystem
+/home/erica/Documents/cs_projects/LoginSystem/bin/Debug/net8.0/LoginSystem.deps.json
+/home/erica/Documents/cs_projects/LoginSystem/bin/Debug/net8.0/LoginSystem.runtimeconfig.json
+/home/erica/Documents/cs_projects/LoginSystem/bin/Debug/net8.0/LoginSystem.dll
+/home/erica/Documents/cs_projects/LoginSystem/bin/Debug/net8.0/LoginSystem.pdb
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.AssemblyInfoInputs.cache
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.AssemblyInfo.cs
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.csproj.CoreCompileInputs.cache
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.dll
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/refint/LoginSystem.dll
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.pdb
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/LoginSystem.genruntimeconfig.cache
+/home/erica/Documents/cs_projects/LoginSystem/obj/Debug/net8.0/ref/LoginSystem.dll
